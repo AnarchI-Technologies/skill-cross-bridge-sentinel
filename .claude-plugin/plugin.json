@@ -1,0 +1,11 @@
+{
+  "name": "skill-cross-bridge-sentinel",
+  "version": "0.1.0",
+  "description": "Read-only CROSS bridge health and stale-transfer sentinel skill.",
+  "skills": [
+    {
+      "name": "cross-bridge-sentinel",
+      "path": "skills/cross-bridge-sentinel"
+    }
+  ]
+}
